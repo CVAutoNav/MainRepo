@@ -1,0 +1,12 @@
+[submodule "RGB-D"]
+	path = RGB-D
+	url = https://github.com/CVAutoNav/RGB-D
+[submodule "Laser"]
+	path = Laser
+	url = https://github.com/CVAutoNav/Laser
+[submodule "UGV-A"]
+	path = UGV-A
+	url = https://github.com/CVAutoNav/UGV-A
+[submodule "UGV-B"]
+	path = UGV-B
+	url = https://github.com/CVAutoNav/UGV-B
