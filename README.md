@@ -5,10 +5,8 @@ This is the central repo for all teams
 ### Installation
 
 ```
-git clone https://github.com/CVAutoNav/MainRepo.git
+git clone --recurse-submodules https://github.com/CVAutoNav/MainRepo.git
 ```
-
-You can then pull the respective repo to get the latest code.
 
 ---
 
